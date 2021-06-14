@@ -1,3 +1,6 @@
+File `MAIN_fun_standalone.m` with functions in `fun` folder contain implementation of IED clustering in MATLAB. Folder `App_MATLAB` contains executable application 
+(`.exe`). The use of the application in described in short tutorial `MANUAL-IED-clustering.pdf`, more information can be found in `README.txt` in `App_MATLAB` folder.
+
 # IED clustering
 
 Between seizures, irritative network generates frequent brief synchronous activity, which manifests on the EEG as interictal epileptiform discharges (IEDs). 
